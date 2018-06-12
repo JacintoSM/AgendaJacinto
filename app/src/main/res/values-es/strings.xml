@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Agenda</string>
+<string name="error_massage">"No se ha encontrado el contacto, ¿Desea realizar otra búsqueda?"</string>
+</resources>
+
